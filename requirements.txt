@@ -1,1 +1,1 @@
-get-report>=0.6.0
+get-report>=0.6.2
